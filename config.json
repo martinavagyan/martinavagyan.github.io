@@ -3,15 +3,15 @@
   "username": "martinavagyan",
   "name": null,
   "userimg": "https://avatars3.githubusercontent.com/u/7386708?v=4",
-  "sort": "star",
+  "sort": "updated",
   "order": "desc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
    "owner"
   ],
   "twitter": null,
-  "linkedin": null,
+  "linkedin": "https://www.linkedin.com/in/martinavagyan",
   "medium": null,
   "dribbble": null
  }
